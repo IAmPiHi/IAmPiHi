@@ -48,6 +48,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmPiHi&theme=dark" alt="GitHub Streak" />
 </p>
 
+---
+
 ### 📫 如何聯繫我？
 
 * **Website:** [zhangcode.ddns.net](https://zhangcode.ddns.net)
