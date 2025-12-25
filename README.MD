@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=Software+Design+Champion;C%2B%2B+%2F+C%23+Developer;Mathematics+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXFqZzR4ZWZ4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/A6aHBCFqlE0Rq/giphy.gif" width="100%" />
+</p>
+
 ---
 
 ### 🚀 關於我 (About Me)
