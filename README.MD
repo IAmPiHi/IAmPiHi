@@ -12,7 +12,7 @@
 - 🏆 **榮譽**：**112 年全國工科技藝競賽 - 軟體設計職種【優勝】**
 - 💻 **技術**：擅長 C、C++、C# 開發，並運用 Python 進行自動化與數據處理。
 - 🧠 **核心興趣**：
-    - **程式開發**：喜歡從底層基礎開始建構實用的小工具與個人網站。
+    - **程式開發**：喜歡從底層基礎開始建構實用的小工具。
     - **Mathematics**：對演算法、邏輯推演等數學概念深感興趣。
 - 🔗 **快速連結**：[![Website Badge](https://img.shields.io/badge/個人網站-zhangcode.ddns.net-blue?style=flat-square&logo=GoDaddy&logoColor=white)](https://zhangcode.ddns.net)
 
