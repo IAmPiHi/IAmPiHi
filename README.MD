@@ -49,15 +49,18 @@
 ---
 
 ### 📊 GitHub 統計數據 (Stats)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IAmPiHi&label=Profile%20Views&color=0e75b6&style=flat" alt="IAmPiHi" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:92FE9D&height=150&section=header" width="100%"/>
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IAmPiHi&show_icons=true&theme=dark&include_all_commits=true" alt="IAmPiHi's GitHub stats" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IAmPiHi&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IAmPiHi&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
