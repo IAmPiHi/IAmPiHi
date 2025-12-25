@@ -39,10 +39,14 @@
 ### 📊 GitHub 統計數據 (Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAmPiHi&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmPiHi&layout=compact&theme=transparent&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IAmPiHi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="IAmPiHi's GitHub stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmPiHi&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmPiHi&theme=radical" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📫 如何聯繫我？
