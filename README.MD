@@ -12,8 +12,8 @@
 - 🏆 **榮譽**：**112 年全國工科技藝競賽 - 軟體設計職種【優勝】**
 - 💻 **技術**：擅長 C++、C# 開發，並運用 Python 進行自動化與數據處理。
 - 🧠 **核心興趣**：
-    - **程式開發**：喜歡從底層邏輯建構實用的小工具與個人網站。
-    - **Mathematic**：對一些有趣的數學概念感到很有興趣!
+    - **程式開發**：喜歡從底層基礎開始建構實用的小工具與個人網站。
+    - **Mathematic**：對一些有趣的數學概念感到興趣!
 - 🌐 **個人網站**：[zhangcode.ddns.net](https://zhangcode.ddns.net)
 
 ---
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IAmPiHi&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=IAmPiHi&theme=dark&hide_border=true&cache_bust=1" alt="GitHub Streak" />
 </p>
 
 ---
