@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=IAmPiHi&label=Profile%20Views&color=0e75b6&style=flat" alt="IAmPiHi" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:92FE9D&height=150&section=header" width="100%"/>
+</p>
+
 ---
 
 ### 🚀 關於我 (About Me)
