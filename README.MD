@@ -10,11 +10,11 @@
 
 - 🎓 **現職**：國立雲林科技大學 - 資訊管理系 (NYUST MIS)
 - 🏆 **榮譽**：**112 年全國工科技藝競賽 - 軟體設計職種【優勝】**
-- 💻 **技術**：擅長 C++、C# 開發，並運用 Python 進行自動化與數據處理。
+- 💻 **技術**：擅長 C、C++、C# 開發，並運用 Python 進行自動化與數據處理。
 - 🧠 **核心興趣**：
     - **程式開發**：喜歡從底層基礎開始建構實用的小工具與個人網站。
-    - **Mathematic**：對一些有趣的數學概念感到興趣!
-- 🌐 **個人網站**：[zhangcode.ddns.net](https://zhangcode.ddns.net)
+    - **Mathematics**：對演算法、邏輯推演等數學概念深感興趣。
+- 🔗 **快速連結**：[![Website Badge](https://img.shields.io/badge/個人網站-zhangcode.ddns.net-blue?style=flat-square&logo=GoDaddy&logoColor=white)](https://zhangcode.ddns.net)
 
 ---
 
@@ -35,11 +35,11 @@
 
 > *"Mathematics is the music of reason."*
 
-我喜歡研究一些有趣的數學概念，並想辦法把它融入程式的實作中來提升執行效率。
+我喜歡研究有趣的數學概念，並將其融入程式實作中以優化執行效率與邏輯結構。
 
-- 🔢 **演算法 (Algorithms)**：追求更低的時間/空間複雜度。
-- 📊 **數值計算**：使用 Python 處理各種數學問題。
-- 🧩 **邏輯推理**：熱衷於解決需要嚴謹推理的程式問題。
+- 🔢 **演算法 (Algorithms)**：追求極致的時間與空間複雜度。
+- 📊 **數值計算**：利用 Python 實作各類數學模型與問題分析。
+- 🧩 **邏輯推理**：享受拆解複雜問題並構建嚴謹解決方案的過程。
 
 ---
 
@@ -47,7 +47,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IAmPiHi&show_icons=true&theme=dark&include_all_commits=true" alt="IAmPiHi's GitHub stats" />
-  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IAmPiHi&layout=compact&theme=dark&hide=html,css" alt="Top Languages" />
 </p>
 
@@ -57,7 +56,7 @@
 
 ---
 
-### 📫 如何聯繫我？
+### 📫 聯繫方式
 
 * **Website:** [zhangcode.ddns.net](https://zhangcode.ddns.net)
 * **GitHub:** [@IAmPiHi](https://github.com/IAmPiHi)
