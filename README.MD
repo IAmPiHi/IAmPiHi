@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IAmPiHi&theme=dark&hide_border=true&cache_bust=1" alt="GitHub Streak" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=IAmPiHi&theme=github-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
